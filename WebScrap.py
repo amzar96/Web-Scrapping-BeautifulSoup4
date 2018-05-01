@@ -31,7 +31,7 @@ print(best)
 
 
 findcat = soup.find(id="col2Left").get_text()
-
+#try testing update
 
 # In[176]:
 
